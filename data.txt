@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 place:veppur,kunnam,siruvachur,g.r.pattinam
+=======
+place:chennai,bangalore,kovai,madurai,theni, trichy
+>>>>>>> Hackerrank
