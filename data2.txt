@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 welcome to all 
+=======
+thanks for coming to my celebration 
+>>>>>>> Hackerrank
