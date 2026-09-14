@@ -1,1 +1,1 @@
-place:MADURAI,CHENNAI,TRICHY, PERAMBALUR, ARIYALUR, THENI, KOVAI, THIRUTHANI
+place:veppur,kunnam,siruvachur,g.r.pattinam
